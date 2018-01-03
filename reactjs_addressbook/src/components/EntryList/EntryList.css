@@ -1,0 +1,8 @@
+/* Entry List */
+
+.entrylist {
+	position: relative;
+	width: 100%;
+	top: 120px;
+	z-index: 2;
+}

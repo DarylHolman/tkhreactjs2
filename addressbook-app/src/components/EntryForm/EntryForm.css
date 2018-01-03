@@ -1,0 +1,39 @@
+.entry-form-container {
+	position: absolute;
+	top: 120px;
+	padding: 0px 20px 0px 20px;
+}
+
+.entry-form {
+	width: 100%;
+}
+
+.entrylabel {
+	width: 100%;
+	font-size: 12px;
+	color: #666;
+}
+
+.entry-ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.entry-li {
+	height: 62px;
+	line-height: 62px;
+	border-bottom: 1px solid #ddd;
+}
+
+.inputfield {
+	width: 100%;
+	font-size: 14px;
+	padding: 5px 0px 5px 0px;
+	margin: 0px 0px 5px 0px;
+	line-height: 30px;
+}
+
+.noborder {
+	border: none;
+}
